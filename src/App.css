@@ -89,6 +89,7 @@ body {
 .controls .exchange{
   color: #9f9f9f;
   font-size: 16px;
+  margin: 15px;
   cursor: pointer;
 }
 
